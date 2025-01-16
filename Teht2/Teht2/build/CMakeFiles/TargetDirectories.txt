@@ -1,0 +1,7 @@
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/Teht2.dir
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/edit_cache.dir
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/rebuild_cache.dir
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/list_install_components.dir
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/install.dir
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/install/local.dir
+C:/Work/Olio-ohjelmointi/Teht2/Teht2/build/CMakeFiles/install/strip.dir
